@@ -1,3 +1,7 @@
+
+
+# wir importieren die Bibliothek math
+# so können wir auf die Funktionen der Bibliothek zugreifen
 import math
 
 g = 9.81
