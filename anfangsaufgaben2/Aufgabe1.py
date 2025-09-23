@@ -10,6 +10,11 @@ Discountpreis: 1800
 # 1. Benutzer nach dem Centbetrag fragen und speichern
 cent=input("Geben Sie den Gesamtbetrag ein: ")
 
+
+
+
+print("Hallo")
+
 # 2. betrag in int umwandeln
 cent=int(cent)
 
